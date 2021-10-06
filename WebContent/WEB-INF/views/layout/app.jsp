@@ -11,7 +11,7 @@
                 <h1>メッセージボードアプリケーション</h1>
             </div>
             <div id="content">
-                ${param.contents}
+                ${param.content}
             </div>
             <div id="footer">
                 by Taro Kirameki
